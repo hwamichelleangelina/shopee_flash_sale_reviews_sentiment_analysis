@@ -1,0 +1,9 @@
+csv_files = [
+    'tws_shopee_reviews.csv',
+    'miband_shopee_reviews.csv',
+    'earphone_shopee_reviews.csv',
+    'antigores_shopee_reviews.csv',
+    'tripod_shopee_reviews.csv',
+    'watch_shopee_reviews.csv',
+    'cable_shopee_reviews.csv'
+]
