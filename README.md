@@ -1,5 +1,5 @@
 # Shopee Flash Sale Reviews Sentiment Analysis
-
+The goal is to predict the sentiment (positive, negative, or neutral) of user reviews for various products during Shopee's flash sale events. This project uses multiple machine learning and deep learning techniques.
 ## Project Overview
 The Shopee Flash Sale event is a popular e-commerce promotion where a variety of products are sold at discounted prices for a limited period. Customers often leave reviews to express their satisfaction or dissatisfaction with products. Analyzing these reviews helps businesses understand customer feedback, improve product quality, and enhance customer experience.
 
