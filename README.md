@@ -7,7 +7,7 @@ This project demonstrates how to:
 - **Data scraping**: Create and pull reviews from Shopee Flash Sale event.
 - **Preprocess text data**: Clean and prepare customer reviews for analysis.
 - **Feature extraction**: Use techniques like **CountVectorizer** and **Word2Vec** to extract meaningful features from text data.
-- **Model building**: Build machine learning and deep learning models (e.g., **LSTM**, **GRU**) to predict the sentiment of reviews.
+- **Model building**: Build machine learning and deep learning models (e.g., **LSTM**, **CNN**) to predict the sentiment of reviews.
 - **Evaluate model performance**: Assess the accuracy and effectiveness of the models.
 
 ## Features
@@ -36,11 +36,11 @@ pip install -r requirements.txt
    ```
 
 3. Preprocess and clean the review data using the provided scripts.
-4. Train sentiment analysis models (LSTM, GRU, etc.).
+4. Train sentiment analysis models (LSTM, CNN, etc.).
 5. Evaluate model performance and generate results.
 
 ## Models Used
-- **CountVectorizer + GRU**: For sentiment classification using a combination of simple text vectorization and a GRU-based neural network.
+- **CountVectorizer + CNN**: For sentiment classification using a combination of simple text vectorization and a convolutional neural network.
 - **Word2Vec + LSTM**: A hybrid approach using pre-trained Word2Vec embeddings with an LSTM model for sequence-based sentiment analysis.
 - **TF-IDF + LSTM**: For sentiment classification using a combination of TF-IDF and Long Short-Term Memory Model.
 
